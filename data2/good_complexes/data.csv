@@ -1,0 +1,5 @@
+complex_name,protein_path,ligand_description,protein_sequence
+6n93,./data2/good_complexes/6n93/6n93_protein_processed.pdb,OCCNC(=O)CCNC(=O)[C@@H](C(COP(OP(OC[C@H]1O[C@H]([C@@H]([C@@H]1OP(O)(O)O)O)n1cnc2c1ncnc2N)(O)O)(O)O)(C)C)O,
+6n94,./data2/good_complexes/6n94/6n94_protein_processed.pdb,O=C(NCCNC(=O)[C@@H](N(=O)=O)C)CCNC(=O)[C@@H](C(COP(OP(OC[C@H]1O[C@H]([C@@H]([C@@H]1OP(O)(O)O)O)n1cnc2c1ncnc2N)(O)O)(O)O)(C)C)O,
+6qrc,./data2/good_complexes/6qrc/6qrc_protein_processed.pdb,COc1cccc(c1)Cn1ccc2c1cc(cc2)c1[nH]nc(c1)N,
+6e13,./data2/good_complexes/6e13/6e13_protein_processed.pdb,[NH3+][C@@H](C(=O)O)CSc1cc(C[C@@H](C(=O)O)[NH3+])cc(c1O)O,
