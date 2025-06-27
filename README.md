@@ -1,5 +1,7 @@
 # GeoDirDock: Guiding Docking Along Geodesic Paths
 
+[![DOI](https://zenodo.org/badge/1005539997.svg)](https://doi.org/10.5281/zenodo.15755563)
+
 
 ## Installing GeoDirDock
 
